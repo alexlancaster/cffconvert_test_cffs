@@ -11,3 +11,4 @@ repository-artifact: "https://github.com/the-url-from-repository-artifact"
 repository-code: "https://github.com/the-url-from-repository-code"
 title: "Test title"
 url: "https://github.com/the-url-from-url"
+doi: 10.9999/fake.14182367
